@@ -1,0 +1,6 @@
+# Node modules
+/node_modules/
+
+# Build output (compiled JavaScript files)
+dist/
+Build/
